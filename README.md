@@ -5,5 +5,7 @@ Demonstrates 6502 instructions on screen. Press a key displayed in parentheses t
 Download:
 [D64 image](demo6502.d64)
 
-Example:
+Examples:
 ![subtract example](sbc.png)
+
+![bit example](bit.png)
