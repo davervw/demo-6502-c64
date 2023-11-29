@@ -9,3 +9,5 @@ Examples:
 ![subtract example](sbc.png)
 
 ![bit example](bit.png)
+
+![pha example](pha.png)
