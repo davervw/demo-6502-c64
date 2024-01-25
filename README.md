@@ -11,3 +11,5 @@ Examples:
 ![bit example](bit.png)
 
 ![pha example](pha.png)
+
+![adc example](adc.png)
